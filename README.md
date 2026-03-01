@@ -1,7 +1,7 @@
 # Equipo6
 # Práctica de Control de Versiones: Equipo 6
 
-Este repositorio ha sido creado para cumplir con los objetivos de la práctica de **GitHub y Colaboración** de la materia de **Programacion de lenguajes especializados **.
+Este repositorio ha sido creado para cumplir con los objetivos de la práctica de **GitHub y Colaboración** de la materia de **Programacion de lenguajes especializados**.
 
 ## Objetivo de la Actividad
 El propósito de este ejercicio es que los estudiantes aprendan a gestionar un flujo de trabajo profesional en Git, incluyendo:
